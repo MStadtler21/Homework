@@ -1,2 +1,2 @@
-# effective-couscous
-Git Practice
+# MStadtlerDU
+Homework and Activities
